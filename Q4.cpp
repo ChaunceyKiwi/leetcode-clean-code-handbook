@@ -1,3 +1,5 @@
+/* O(n) runtime, O(1) space */
+
 class Solution {
 public:
     bool isAlphanumeric(char c) {
